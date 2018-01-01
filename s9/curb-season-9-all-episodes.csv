@@ -1,0 +1,428 @@
+Source,Type,Target,Weight
+AC Repairman,Undirected,Jeff,1
+AC Repairman,Undirected,Larry,2
+Aaron Burr,Undirected,Jeff,2
+Aaron Burr,Undirected,Larry,2
+Aaron Burr,Undirected,Lin,1
+Admissions Person 1,Undirected,Admissions Person 2,1
+Admissions Person 1,Undirected,Larry,1
+Admissions Person 2,Undirected,Larry,1
+Airplane Passenger,Undirected,Larry,1
+Ambulance Driver,Undirected,Larry,1
+Angry Muslim,Undirected,Larry,1
+Bebe,Undirected,Dr. Winocur,3
+Bebe,Undirected,Larry,7
+Benjamin Franklin,Undirected,Larry,1
+Benjamin Franklin,Undirected,Victor,1
+Betty,Undirected,Jeff,1
+Betty,Undirected,Larry,6
+Betty,Undirected,Leon,1
+Betty,Undirected,Numa,1
+Betty,Undirected,Susie,1
+Bridget,Undirected,Bridget's Friend,1
+Bridget,Undirected,Brunch Waiter,2
+Bridget,Undirected,Cheryl,5
+Bridget,Undirected,Eddie,4
+Bridget,Undirected,Funkhouser,4
+Bridget,Undirected,Jeff,5
+Bridget,Undirected,Larry,23
+Bridget,Undirected,Leon,5
+Bridget,Undirected,Marilyn,4
+Bridget,Undirected,Rose Shapiro,1
+Bridget,Undirected,Susie,5
+Bridget,Undirected,Ted,5
+Bridget,Undirected,The Shucker,2
+Brunch People,Undirected,Funkhouser,1
+Brunch People,Undirected,Larry,1
+Brunch People,Undirected,Morsi,2
+Brunch Waiter,Undirected,Funkhouser,1
+Brunch Waiter,Undirected,Larry,2
+Brunch Waiter,Undirected,Marilyn,1
+Bus Driver 1,Undirected,Larry,1
+Bus Driver 2,Undirected,Bus People,1
+Bus Driver 2,Undirected,Larry,2
+Bus Passenger 2,Undirected,Larry,1
+Bus Passenger 3,Undirected,Larry,1
+Bus People,Undirected,Larry,2
+Butler,Undirected,Larry,1
+Butler,Undirected,Salman Rushdie,1
+Cesar,Undirected,Funkhouser,1
+Cesar,Undirected,Larry,4
+Chef Curtis,Undirected,Larry,1
+Chef,Undirected,Cop (Officer Jenkins),1
+Chef,Undirected,Elizabeth Banks,1
+Chef,Undirected,Larry,2
+Cheryl,Undirected,Funkhouser,2
+Cheryl,Undirected,Jeff,9
+Cheryl,Undirected,Larry,16
+Cheryl,Undirected,Leon,5
+Cheryl,Undirected,Officiant,1
+Cheryl,Undirected,Rose Shapiro,1
+Cheryl,Undirected,Sammi,1
+Cheryl,Undirected,Sign Language Interpreter,1
+Cheryl,Undirected,Susie,8
+Cheryl,Undirected,Ted,13
+Cheryl,Undirected,The Shucker,3
+Cheryl,Undirected,Victor,1
+Cheryl,Undirected,Victor's Dad,1
+Cheryl,Undirected,Victor's Mom,1
+Chinese Bus Passenger,Undirected,Larry,1
+Claudia,Undirected,Hotel Day Manager,2
+Claudia,Undirected,Larry,3
+Claudia,Undirected,Male Hotel Guests,2
+Cody,Undirected,Costume Designer,1
+Cody,Undirected,F. Murray Abraham,2
+Cody,Undirected,Husband 1 in Musical,1
+Cody,Undirected,Husband 2 in Musical,1
+Cody,Undirected,Husband 3 in Musical,1
+Cody,Undirected,Larry,8
+Cody,Undirected,Lin,7
+Cody,Undirected,Musical Director,1
+Cody,Undirected,Production Assistant,1
+Cody,Undirected,Sign Language Interpreter,1
+Cody,Undirected,Wife 1 in Musical,1
+Cody,Undirected,Wife 2 in Musical,1
+Cody,Undirected,Wife 3 in Musical,1
+Cop (Officer Jenkins),Undirected,Court Reporter,1
+Cop (Officer Jenkins),Undirected,Elizabeth Banks,2
+Cop (Officer Jenkins),Undirected,Judge,1
+Cop (Officer Jenkins),Undirected,Katie,1
+Cop (Officer Jenkins),Undirected,Larry,4
+Cop (Officer Jenkins),Undirected,Restaurant Manager,1
+Cop (Officer Jenkins),Undirected,Susie,1
+Costume Designer,Undirected,Ernst,1
+Costume Designer,Undirected,F. Murray Abraham,1
+Costume Designer,Undirected,Larry,4
+Costume Designer,Undirected,Lin,5
+Costume Designer,Undirected,Valentina,1
+Court Reporter,Undirected,Judge,1
+Court Reporter,Undirected,Larry,1
+Crying Woman,Undirected,Larry,1
+Dave,Undirected,Larry,1
+Denise Handicapped,Undirected,Morsi,1
+Dr. Templeton,Undirected,Larry,6
+Dr. Templeton,Undirected,Mrs. Templeton,3
+Dr. Winocur,Undirected,Funkhouser,2
+Dr. Winocur,Undirected,Golf Club President,1
+Dr. Winocur,Undirected,Jeff,2
+Dr. Winocur,Undirected,Larry,8
+Eddie,Undirected,Larry,5
+Elizabeth Banks,Undirected,Jeff,1
+Elizabeth Banks,Undirected,Larry,8
+Elizabeth Banks,Undirected,Lucy Walsh,2
+Elizabeth Banks,Undirected,Restaurant Manager,1
+Elizabeth Banks,Undirected,Susie,1
+Ernst,Undirected,Female Swinger,1
+Ernst,Undirected,Larry,2
+Ernst,Undirected,Leon,1
+Ernst,Undirected,Lin,1
+Ernst,Undirected,Male Swinger,1
+Ernst,Undirected,Valentina,3
+F. Murray Abraham,Undirected,Husband 1 in Musical,1
+F. Murray Abraham,Undirected,Larry,6
+F. Murray Abraham,Undirected,Lin,5
+F. Murray Abraham,Undirected,Wife 1 in Musical,1
+FBI Agent,Undirected,Jeff,1
+FBI Agent,Undirected,Larry,1
+Female Swinger,Undirected,Larry,1
+Female Swinger,Undirected,Leon,1
+Female Swinger,Undirected,Male Swinger,2
+Female Swinger,Undirected,Valentina,1
+Flight Attendant,Undirected,Larry,2
+Flight Attendant,Undirected,Sick Passenger,1
+Four Members of Theater Crew,Undirected,Larry,1
+Funkhouser,Undirected,Jeff,10
+Funkhouser,Undirected,Joey (Funkhouser's Former Daughter Jodie),1
+Funkhouser,Undirected,Kenny,2
+Funkhouser,Undirected,Larry,26
+Funkhouser,Undirected,Leon,4
+Funkhouser,Undirected,Marie Deschamps,1
+Funkhouser,Undirected,Marilyn,6
+Funkhouser,Undirected,Morsi,1
+Funkhouser,Undirected,Rabbi,1
+Funkhouser,Undirected,Rhonda,1
+Funkhouser,Undirected,Richard,2
+Funkhouser,Undirected,Susie,5
+Funkhouser,Undirected,Ted,1
+Funkhouser,Undirected,Victor's Dad,1
+Gate Agent,Undirected,Larry,1
+George Washington,Undirected,Larry,1
+George Washington,Undirected,Victor,1
+Golf Club President,Undirected,Tip McDougal,1
+Golf Club Waiter,Undirected,Jeff,1
+Golf Club Waiter,Undirected,Larry,3
+Golf Club Waiter,Undirected,Richard,1
+Greg,Undirected,Larry,3
+Head Mufti,Undirected,Larry,1
+Head Mufti,Undirected,Morsi,1
+Head Mufti,Undirected,Mufti 1,1
+Head Mufti,Undirected,Mufti 2,1
+Head Mufti,Undirected,Mufti 3,1
+Head Mufti,Undirected,Mufti 4,1
+Hostess (9x03),Undirected,Larry,1
+Hostess (9x03),Undirected,Salman Rushdie,1
+Hostess (9x10),Undirected,Jeff,1
+Hostess (9x10),Undirected,Larry,2
+Hostess (9x10),Undirected,Marie Deschamps,1
+Hostess (9x10),Undirected,Susie,1
+Hotel Day Manager,Undirected,Hotel Security Guard,1
+Hotel Day Manager,Undirected,Larry,6
+Hotel Day Manager,Undirected,Leon,1
+Hotel Day Manager,Undirected,Male Hotel Guests,2
+Hotel Security Guard,Undirected,Larry,1
+Housekeeper,Undirected,Kenny,1
+Husband 1 in Musical,Undirected,Husband 2 in Musical,1
+Husband 1 in Musical,Undirected,Husband 3 in Musical,1
+Husband 1 in Musical,Undirected,Larry,2
+Husband 1 in Musical,Undirected,Lin,2
+Husband 1 in Musical,Undirected,Musical Director,1
+Husband 1 in Musical,Undirected,Sign Language Interpreter,1
+Husband 1 in Musical,Undirected,Wife 1 in Musical,2
+Husband 1 in Musical,Undirected,Wife 2 in Musical,1
+Husband 1 in Musical,Undirected,Wife 3 in Musical,1
+Husband 2 in Musical,Undirected,Husband 3 in Musical,1
+Husband 2 in Musical,Undirected,Larry,1
+Husband 2 in Musical,Undirected,Lin,1
+Husband 2 in Musical,Undirected,Musical Director,1
+Husband 2 in Musical,Undirected,Sign Language Interpreter,1
+Husband 2 in Musical,Undirected,Wife 1 in Musical,1
+Husband 2 in Musical,Undirected,Wife 2 in Musical,1
+Husband 2 in Musical,Undirected,Wife 3 in Musical,1
+Husband 3 in Musical,Undirected,Larry,1
+Husband 3 in Musical,Undirected,Lin,1
+Husband 3 in Musical,Undirected,Musical Director,1
+Husband 3 in Musical,Undirected,Sign Language Interpreter,1
+Husband 3 in Musical,Undirected,Wife 1 in Musical,1
+Husband 3 in Musical,Undirected,Wife 2 in Musical,1
+Husband 3 in Musical,Undirected,Wife 3 in Musical,1
+Jean (Mail Carrier),Undirected,Larry,3
+Jeff,Undirected,John (Neighbor),2
+Jeff,Undirected,Ken,1
+Jeff,Undirected,Kenny's Cousin,1
+Jeff,Undirected,Larry,83
+Jeff,Undirected,Leon,11
+Jeff,Undirected,Leslie (Neighbor),2
+Jeff,Undirected,Lin,6
+Jeff,Undirected,Marie Deschamps,3
+Jeff,Undirected,Marilyn,2
+Jeff,Undirected,Musical Director,1
+Jeff,Undirected,Officiant,1
+Jeff,Undirected,Real Estate Agent,2
+Jeff,Undirected,Receptionist,3
+Jeff,Undirected,Restaurant Manager,2
+Jeff,Undirected,Rhonda,1
+Jeff,Undirected,Richard,11
+Jeff,Undirected,Rose Shapiro,1
+Jeff,Undirected,Sammi,4
+Jeff,Undirected,Sign Language Interpreter,1
+Jeff,Undirected,Susie,39
+Jeff,Undirected,Ted,11
+Jeff,Undirected,The Shucker,2
+Jeff,Undirected,Victor,3
+Jeff,Undirected,Victor's Dad,5
+Jeff,Undirected,Victor's Mom,2
+Jewish Woman,Undirected,Larry,1
+Jewish Woman,Undirected,Leon,1
+Jimmy,Undirected,Larry,3
+Jimmy,Undirected,Leon,1
+John (Neighbor),Undirected,Larry,2
+John (Neighbor),Undirected,Leslie (Neighbor),2
+John (Neighbor),Undirected,Richard,2
+John (Neighbor),Undirected,Sammi,1
+John (Neighbor),Undirected,Susie,2
+John (Neighbor),Undirected,Victor,1
+Judge Judy Bailiff,Undirected,Judge Judy Sheindlin,1
+Judge Judy Bailiff,Undirected,Larry,1
+Judge Judy Bailiff,Undirected,Leon,1
+Judge Judy Bailiff,Undirected,Rose Shapiro,1
+Judge Judy Sheindlin,Undirected,Larry,1
+Judge Judy Sheindlin,Undirected,Leon,1
+Judge Judy Sheindlin,Undirected,Rose Shapiro,1
+Judge,Undirected,Larry,1
+Justin Brown,Undirected,Larry,1
+Justin Brown,Undirected,Leon,1
+Katie,Undirected,Larry,1
+Katie,Undirected,Susie,2
+Kenny's Cousin,Undirected,Larry,1
+Kenny's Cousin,Undirected,Susie,1
+Kenny,Undirected,Larry,2
+Kenny,Undirected,Leon,3
+Kenny,Undirected,Paula,2
+Kenny,Undirected,Swat,1
+Ken,Undirected,Larry,1
+Ken,Undirected,Richard,1
+Ken,Undirected,Shelly,1
+Kissing Couple Female,Undirected,Kissing Couple Male,1
+Kissing Couple Female,Undirected,Larry,1
+Kissing Couple Male,Undirected,Larry,1
+Krazee-Eyez Killa,Undirected,Morsi,1
+Larry Doppelgänger,Undirected,Mary,1
+Larry,Undirected,Leon,48
+Larry,Undirected,Leslie (Neighbor),2
+Larry,Undirected,Lin,27
+Larry,Undirected,Lin's Wife,1
+Larry,Undirected,Lin's Wife's Friend,1
+Larry,Undirected,Lucy Walsh,2
+Larry,Undirected,Male Hotel Guests,1
+Larry,Undirected,Male Swinger,1
+Larry,Undirected,Mara,2
+Larry,Undirected,Marie Deschamps,5
+Larry,Undirected,Marilyn,7
+Larry,Undirected,Mary,1
+Larry,Undirected,Member of Theater Crew,1
+Larry,Undirected,Morsi,4
+Larry,Undirected,Morsi Driver,1
+Larry,Undirected,Mr. Khashayar (Consul),2
+Larry,Undirected,Mr. Takahashi,2
+Larry,Undirected,Mr. Takahashi's Assistant,1
+Larry,Undirected,Mrs. Templeton,2
+Larry,Undirected,Mufti 1,1
+Larry,Undirected,Mufti 2,1
+Larry,Undirected,Mufti 3,1
+Larry,Undirected,Mufti 4,1
+Larry,Undirected,Musical Director,3
+Larry,Undirected,Numa,2
+Larry,Undirected,Other Uber Driver,1
+Larry,Undirected,Paramedic,1
+Larry,Undirected,Paula,2
+Larry,Undirected,Perfume Saleswoman,1
+Larry,Undirected,Production Assistant,2
+Larry,Undirected,Randy Carter,1
+Larry,Undirected,Receptionist,3
+Larry,Undirected,Restaurant Host,1
+Larry,Undirected,Restaurant Manager,3
+Larry,Undirected,Rhonda,4
+Larry,Undirected,Richard,20
+Larry,Undirected,Romanian Uber Driver,2
+Larry,Undirected,Rose Shapiro,5
+Larry,Undirected,Sal DeMaestri,4
+Larry,Undirected,Salman Rushdie,4
+Larry,Undirected,Sammi,2
+Larry,Undirected,School Kids on Bus,1
+Larry,Undirected,Security Guard,1
+Larry,Undirected,Shara,3
+Larry,Undirected,Shelly,1
+Larry,Undirected,Sign Language Interpreter,1
+Larry,Undirected,Susie,39
+Larry,Undirected,Swarthy Guy,1
+Larry,Undirected,Swarthy Guy's Friend,2
+Larry,Undirected,Swat,3
+Larry,Undirected,Ted,15
+Larry,Undirected,The Shucker,6
+Larry,Undirected,Usher,2
+Larry,Undirected,Valentina,2
+Larry,Undirected,Victor,9
+Larry,Undirected,Victor's Dad,4
+Larry,Undirected,Victor's Mom,1
+Larry,Undirected,Waiter (9x03),1
+Larry,Undirected,Waitress (9x10),1
+Larry,Undirected,Wife 1 in Musical,4
+Larry,Undirected,Wife 2 in Musical,1
+Larry,Undirected,Wife 3 in Musical,1
+Larry,Undirected,Yogi Tina,3
+Leon,Undirected,Male Hotel Guests,1
+Leon,Undirected,Male Swinger,1
+Leon,Undirected,Mara,1
+Leon,Undirected,Paula,1
+Leon,Undirected,Rose Shapiro,3
+Leon,Undirected,Shara,1
+Leon,Undirected,Susie,6
+Leon,Undirected,Swat,4
+Leon,Undirected,Ted,6
+Leon,Undirected,The Shucker,2
+Leon,Undirected,Valentina,1
+Leon,Undirected,Yogi Tina,3
+Leslie (Neighbor),Undirected,Richard,2
+Leslie (Neighbor),Undirected,Sammi,1
+Leslie (Neighbor),Undirected,Susie,2
+Leslie (Neighbor),Undirected,Victor,1
+Lin's Wife,Undirected,Lin's Wife's Friend,1
+Lin,Undirected,Lin's Wife,1
+Lin,Undirected,Musical Director,1
+Lin,Undirected,Paramedic,1
+Lin,Undirected,Receptionist,1
+Lin,Undirected,Sign Language Interpreter,2
+Lin,Undirected,Valentina,1
+Lin,Undirected,Wife 1 in Musical,2
+Lin,Undirected,Wife 2 in Musical,1
+Lin,Undirected,Wife 3 in Musical,1
+Lisa Thompson,Undirected,Morsi,1
+Lucy Walsh,Undirected,Restaurant Manager,1
+Male Swinger,Undirected,Valentina,1
+Mara,Undirected,Susie,1
+Marie Deschamps,Undirected,Sammi,1
+Marie Deschamps,Undirected,Susie,4
+Marie Deschamps,Undirected,Victor,1
+Marilyn,Undirected,Rhonda,1
+Marilyn,Undirected,Richard,2
+Marilyn,Undirected,Susie,2
+Michael J. Fox,Undirected,Morsi,1
+Monena,Undirected,Morsi,1
+Morsi,Undirected,Mufti 1,1
+Morsi,Undirected,Mufti 2,1
+Morsi,Undirected,Mufti 3,1
+Morsi,Undirected,Mufti 4,1
+Morsi,Undirected,Rachel Heinemann,1
+Morsi,Undirected,Yoshi,1
+Mr. Takahashi,Undirected,Shelly,1
+Mufti 1,Undirected,Mufti 2,1
+Mufti 1,Undirected,Mufti 3,1
+Mufti 1,Undirected,Mufti 4,1
+Mufti 2,Undirected,Mufti 3,1
+Mufti 2,Undirected,Mufti 4,1
+Mufti 3,Undirected,Mufti 4,1
+Musical Director,Undirected,Sign Language Interpreter,1
+Musical Director,Undirected,Wife 1 in Musical,1
+Musical Director,Undirected,Wife 2 in Musical,1
+Musical Director,Undirected,Wife 3 in Musical,1
+Officiant,Undirected,Sammi,1
+Officiant,Undirected,Sign Language Interpreter,1
+Officiant,Undirected,Susie,1
+Officiant,Undirected,Ted,1
+Officiant,Undirected,Victor,1
+Officiant,Undirected,Victor's Dad,1
+Officiant,Undirected,Victor's Mom,1
+Paula,Undirected,Swat,1
+Real Estate Agent,Undirected,Susie,1
+Restaurant Manager,Undirected,Two Restaurant Guests,1
+Rhonda,Undirected,Richard,5
+Rhonda,Undirected,Susie,1
+Richard,Undirected,Sammi,1
+Richard,Undirected,Susie,5
+Richard,Undirected,Victor,1
+Rose Shapiro,Undirected,Susie,1
+Rose Shapiro,Undirected,Ted,1
+Sal DeMaestri,Undirected,Victor,1
+Salman Rushdie,Undirected,Waiter (9x03),1
+Sammi,Undirected,Sign Language Interpreter,1
+Sammi,Undirected,Susie,3
+Sammi,Undirected,Ted,1
+Sammi,Undirected,Victor,4
+Sammi,Undirected,Victor's Dad,2
+Sammi,Undirected,Victor's Mom,2
+Shara,Undirected,Swat,1
+Sign Language Interpreter,Undirected,Susie,1
+Sign Language Interpreter,Undirected,Ted,1
+Sign Language Interpreter,Undirected,Victor,1
+Sign Language Interpreter,Undirected,Victor's Dad,1
+Sign Language Interpreter,Undirected,Victor's Mom,1
+Sign Language Interpreter,Undirected,Wife 1 in Musical,1
+Sign Language Interpreter,Undirected,Wife 2 in Musical,1
+Sign Language Interpreter,Undirected,Wife 3 in Musical,1
+Susie,Undirected,Ted,8
+Susie,Undirected,The Shucker,4
+Susie,Undirected,Victor,3
+Susie,Undirected,Victor's Dad,3
+Susie,Undirected,Victor's Mom,2
+Swarthy Guy,Undirected,Swarthy Guy's Friend,1
+Ted,Undirected,The Shucker,2
+Ted,Undirected,Truck Driver,1
+Ted,Undirected,Victor,1
+Ted,Undirected,Victor's Dad,1
+Ted,Undirected,Victor's Mom,1
+Victor's Dad,Undirected,Victor's Mom,5
+Victor,Undirected,Victor's Dad,2
+Victor,Undirected,Victor's Mom,2
+Wife 1 in Musical,Undirected,Wife 2 in Musical,1
+Wife 1 in Musical,Undirected,Wife 3 in Musical,1
+Wife 2 in Musical,Undirected,Wife 3 in Musical,1
